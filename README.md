@@ -1,2 +1,2 @@
-# community
+# Community
 CHIME/FRB Community
