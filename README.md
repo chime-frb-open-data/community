@@ -1,4 +1,19 @@
-# CHIME/FRB Community
+<h1 align="center">
+  <br>
+  <a href="https://chime-frb-open-data.github.io"><img src="https://github.com/chime-frb-open-data/chime-frb-open-data.github.io/blob/master/docs/chime-frb-logo.png?raw=true" alt="Maestro" width="25%"></a>
+  <br>
+  CHIME/FRB Community
+  <br>
+</h1>
+
+<br>
+
+<p align="center">
+  <a href="Some Love">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  </a>
+</p>
+
 
 ## Community Guidelines
 We want to keep the CHIME/FRB community awesome, growing and collaborative. We need your help to keep it that way. To help with this we've come up with some general guidelines for the community as a whole:
