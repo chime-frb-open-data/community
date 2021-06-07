@@ -6,6 +6,10 @@
   <br>
 </h1>
 
+## Resources
+  - CHIME/FRB Open Data Documentation
+  - CHIME/FRB Open Data Python Package
+  - CHIME/FRB Community
 
 ## Community Guidelines
 We want to keep the CHIME/FRB community awesome, growing and collaborative. We need your help to keep it that way. To help with this we've come up with some general guidelines for the community as a whole:
@@ -21,7 +25,7 @@ We want to keep the CHIME/FRB community awesome, growing and collaborative. We n
 **Don't send email to the maintainers:** There's no need to send email to the maintainers to ask them to investigate an issue or to take a look at a pull request. Instead of sending an email, GitHub mentions should be used to ping maintainers to review a pull request, a proposal or an issue.
 
 ## Reporting Issues
-A great way to contribute to the FRB Community is to send a detailed report when you encounter an issue. We always appreciate a well-written, thorough bug report, and will thank you for it!
+A great way to contribute to the FRB Community is to send a detailed report when you encounter an issue. We always appreciate a well-written, thorough bug report, and will thank you for it! When you make an issue, be sure to tag it with an appropriate label.
 
 Check that our [issue database](https://github.com/chime-frb-open-data/community/issues?q=) doesn't already include that problem or suggestion before submitting an issue. If you find a match, you can use the "subscribe" button to get notified on updates. If you have ways to reproduce the issue or have additional information that may help resolving the issue, please leave a comment.
 
