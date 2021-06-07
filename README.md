@@ -6,10 +6,14 @@
   
 </h1>
 
-## Resources
-  - CHIME/FRB Open Data Documentation
-  - CHIME/FRB Open Data Python Package
-  - CHIME/FRB Community
+CHIME/FRB Community is meant to be primary portal for accessing support from the CHIME/FRB collaboration. 
+
+Here, you can open issues to ask general questions, report bugs in code and specific feedback on scientific questions. Before making your first issue, we requst you make yourself familar with the [community guidelines](#community-guidelines) and the [reporting ettiquette](#reporting-issues).  
+
+## Resources Available
+  - [CHIME/FRB Open Data Documentation](https://chime-frb-open-data.github.io/)
+  - [CHIME/FRB Open Data Python Package](https://github.com/chime-frb-open-data/chime-frb-open-data)
+  - [CHIME/FRB Community](https://github.com/chime-frb-open-data/community)
 
 ## Community Guidelines
 We want to keep the CHIME/FRB community awesome, growing and collaborative. We need your help to keep it that way. To help with this we've come up with some general guidelines for the community as a whole:
